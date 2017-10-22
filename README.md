@@ -1,4 +1,4 @@
-# Exercise #12: Blackjack AI
+# Exercise #11: Blackjack AI
 
 [![topic: first-class-functions](https://img.shields.io/badge/topic-first%20class%20functions-green.svg?style=flat-square)](https://github.com/search?q=topic%3Afirst-class-functions+org%3Agophercises&type=Repositories)
 [![topic: fun](https://img.shields.io/badge/topic-fun-green.svg?style=flat-square)](https://github.com/search?q=topic%3Afun+org%3Agophercises&type=Repositories)
