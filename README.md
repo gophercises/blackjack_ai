@@ -1,6 +1,6 @@
 # Exercise #11: Blackjack AI
 
-[![exercise status: in progress](https://img.shields.io/badge/exercise%20status-in%20progress-yellow.svg?style=for-the-badge)](https://gophercises.com/exercises/blackjack_ai)
+[![exercise status: released](https://img.shields.io/badge/exercise%20status-released-green.svg?style=for-the-badge)](https://gophercises.com/exercises/blackjack_ai)
 
 ## Exercise details
 
